@@ -1,6 +1,3 @@
-
-print("dddd")
-
 set_1 = {'Lampa','Stol','Stul'}
 print(type(set_1))
 value = 1
