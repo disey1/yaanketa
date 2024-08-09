@@ -1,4 +1,6 @@
 print("New branch")
+print("New branch")
+print("New branch")
 
 set_1 = {'Lampa','Stol','Stul'}
 print(type(set_1))
